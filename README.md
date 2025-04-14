@@ -18,6 +18,6 @@
      
 </div> <br/>
 
-Apaixonado por tecnologia, sempre em busca de novos desafios e aprendizados — e com o coração inteiramente da Julia. 
+Apaixonado por tecnologia, sempre em busca de novos desafios e aprendizados 👨‍💻 — e com o coração inteiramente da Julia. 
 
 ## Projetos:
